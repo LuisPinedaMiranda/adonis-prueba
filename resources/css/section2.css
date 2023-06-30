@@ -1,0 +1,16 @@
+.section2{
+    background-color: rgb(193, 208, 119);
+    width: 1400px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    padding: 50px;
+}
+
+.cont1{
+    border: red solid 1px;
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: rgb(246, 170, 70);
+    text-align: center;
+}
